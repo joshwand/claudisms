@@ -3,8 +3,8 @@
   "description": "A living banlist of the words, phrases, and structural tics that signal AI-generated writing - the ones to flag and scrub before a draft goes out. Free to reuse (CC0).",
   "url": "https://claudisms.ai/",
   "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-  "updated": "2026-09-01",
-  "count": 127,
+  "updated": "2026-10-19",
+  "count": 132,
   "terms": [
     {
       "id": "sit-with",
@@ -84,7 +84,7 @@
         "what I didn't expect to find"
       ],
       "category": "Confirmed Claudisms",
-      "definition": "- discovery-arc framing. Stages a little narrative of stumbling onto an insight (didn't plan it -> can't unsee it now) to lend the observation weight it should carry on its own. Same family as \"the question I keep coming back to\" - both manufacture a journey to dramatize a point - and it also breaks the no-narrative-arc rule: a set of pieces isn't a story about the author discovering something. The observation should stand without the origin story. Cut the setup and state the thing: \"Every one of these turns on the same pivot.\" not \"The thread I didn't plan but can't unsee: every one of these…\"",
+      "definition": "- discovery-arc framing. Stages a little narrative of stumbling onto an insight (didn't plan it, now can't unsee it) to lend the observation weight it should carry on its own. Same family as \"the question I keep coming back to\" - both manufacture a journey to dramatize a point - and it also breaks the no-narrative-arc rule: a set of pieces isn't a story about the author discovering something. The observation should stand without the origin story. Cut the setup and state the thing: \"Every one of these turns on the same pivot.\" not \"The thread I didn't plan but can't unsee: every one of these…\"",
       "url": "https://claudisms.ai/#the-thread-i-didn-t-plan-but-can-t-unsee",
       "display": "\"the thread I didn't plan but can't unsee\" / \"the thing I didn't plan but keep noticing\" / \"I didn't set out to X, but\" / \"I didn't plan it, but\" / \"what I didn't expect to find\"",
       "level": 2
@@ -262,7 +262,7 @@
         "the tell is"
       ],
       "category": "Confirmed Claudisms",
-      "definition": "- poker/diagnosis diction reaching for knowing-insider weight. Frames an observation as a secret giveaway the writer has cleverly spotted - same announce-your-own-cleverness move as the cool-people rule. It is not natural phrasing. Say plainly what the thing shows or means, or just state the observation: \"The song is the odd one out, and that's worth looking at\" -> just say why it's different.",
+      "definition": "- poker/diagnosis diction reaching for knowing-insider weight. Frames an observation as a secret giveaway the writer has cleverly spotted - same announce-your-own-cleverness move as the cool-people rule. It is not natural phrasing. Say plainly what the thing shows or means, or just state the observation: instead of \"The song is the odd one out, and that's worth looking at,\" just say why it's different.",
       "url": "https://claudisms.ai/#the-tell",
       "display": "\"the tell\" / \"that's the tell\" / \"the tell is\"",
       "level": 2
@@ -1738,6 +1738,99 @@
       "definition": "- (as in \"what moved is the assembly,\" \"what actually moved is the timeline\") - a cleft that announces a summary verdict on a change, using a physical-motion verb for something that did not physically move. Two faults in one: it borrows weight from a movement image the sentence has not earned, and it compresses a many-part change into a single crowned item, which is almost always narrower than the truth. Name the change plainly and at its real size - \"you no longer start at a blank page, and it keeps you inside the method while you work\" - rather than crowning one part of it as the thing that moved. Same family as \"the shift is,\" \"the unlock is,\" and the crowned-superlative entries.",
       "url": "https://claudisms.ai/#what-moved",
       "display": "\"what moved is\" / \"what actually moved\" / \"what changed is the\"",
+      "level": 2
+    },
+    {
+      "id": "abstraction-as-actor",
+      "term": "a good entry needs",
+      "aliases": [
+        "a good entry needs",
+        "the entry needs",
+        "the change needs",
+        "the fix does",
+        "the plan says",
+        "the skill says",
+        "the note says",
+        "the doc says"
+      ],
+      "category": "Structural / framing tics",
+      "definition": "- (as in \"a good entry needs three things,\" \"the skill says what to report,\" \"the recurrence note says what the fix does not close\") - a document, plan, rule, or fix is given the verb a person would get. A person wants something from the entry, and the writer has hidden who. A reviewer's requirement now sounds like a fact about the world with nobody behind it. Put the person back as the subject: \"we accept an entry if it has the phrase, the reason it signals AI writing, and a replacement,\" \"the skill tells the agent to report the outcome,\" \"ten suites still have the stub after this fix.\" Same family as \"carry\" in its abstract-agency form, \"lives,\" and \"names.\" Note: software that literally runs is fine (\"the script deletes the temp file\").",
+      "url": "https://claudisms.ai/#abstraction-as-actor",
+      "display": "\"a good entry needs\" / \"the fix does\" / \"the skill says\" / \"the note says\"",
+      "level": 2
+    },
+    {
+      "id": "counting-things",
+      "term": "three things",
+      "aliases": [
+        "two things",
+        "three things",
+        "four things",
+        "two layers",
+        "three layers",
+        "four layers",
+        "two-layer",
+        "three-layer",
+        "five-layer",
+        "two faults",
+        "two forms",
+        "three pieces"
+      ],
+      "category": "Structural / framing tics",
+      "definition": "- (as in \"an entry needs three things,\" \"the three layers and the rule for their seams,\" \"a strict-additive five-layer chain,\" \"five contributing factors, three of them still open\") - announcing the size of a set, with the numeral spelled out, so a loose list sounds complete and designed. Usually the writer listed whatever came up and counted it afterward, and the reader learns nothing from the number that the list does not already show. Readers will count the items, and if the count is off, the writer looks careless. \"Layers\" is worse: the writer adds a stacking image for things that do not sit on top of each other. Drop the count and give the items: \"submit the phrase, why it signals AI writing, and what to write instead.\" Same family as \"Announcing the structure before delivering it\" and \"McKinsey-adjacent structure,\" but inside the sentence instead of as an outline. Note: literal technical counts are fine (\"a two-layer network,\" \"the query returns three rows\").",
+      "url": "https://claudisms.ai/#counting-things",
+      "display": "\"three things\" / \"the three layers\" / \"two faults\" / \"five-layer\"",
+      "level": 2
+    },
+    {
+      "id": "shipped-landed",
+      "term": "shipped",
+      "aliases": [
+        "shipped",
+        "what shipped",
+        "here's what shipped",
+        "landed",
+        "what landed",
+        "has landed",
+        "landed in",
+        "ship with"
+      ],
+      "category": "Confirmed Claudisms",
+      "definition": "- (as in \"here's what shipped,\" \"record what landed,\" \"the contract landed in fe1c95c,\" \"has to ship with its regenerated output\") - release-engineering slang applied to any finished work. A commit on a branch, an edited doc, a session's changes: all of it gets called \"shipped\" or \"landed\" whether or not anything reached a user. A writer who calls a branch commit \"shipped\" is claiming a delivery milestone the work has not hit, and is lumping merged, deployed, released, and done together. Say which one happened: \"merged in fe1c95c,\" \"added to the changelog,\" \"deployed to production,\" \"finished.\" Note: \"shipped\" is fine when a product went out to customers, and \"landed\" is fine for a plane.",
+      "url": "https://claudisms.ai/#shipped-landed",
+      "display": "\"shipped\" / \"landed\" / \"what shipped\" / \"what landed\"",
+      "level": 2
+    },
+    {
+      "id": "here-s-what-colon",
+      "term": "here's what",
+      "aliases": [
+        "here's what shipped",
+        "here's what changed",
+        "here's what I did",
+        "here's what I found",
+        "here's what I changed",
+        "what the fix does:",
+        "what this does:",
+        "what it does:",
+        "what changed:"
+      ],
+      "category": "Structural / framing tics",
+      "definition": "- colon-cleft preamble (as in \"Phase 2 is complete. Here's what shipped:\" or a commit message that opens \"What the fix does:\") - a pseudo-cleft that stops at a colon, so the next line arrives as a reveal. The reader already knows a list or an explanation is coming; the setup is a beat of suspense and nothing else. Cut it and open with the content: list the changes, or write \"On logout, clearProfile() now runs.\" Same family as \"Announcing the structure before delivering it\" and \"what moved is.\"",
+      "url": "https://claudisms.ai/#here-s-what-colon",
+      "display": "\"here's what shipped:\" / \"here's what changed:\" / \"what the fix does:\"",
+      "level": 2
+    },
+    {
+      "id": "arrow-glyph",
+      "term": "→",
+      "aliases": [
+        "→"
+      ],
+      "category": "Confirmed Claudisms",
+      "definition": "- (as in \"commit → push → PR → merge,\" \"rename writeJSON param v → payload,\" \"org → team → project → phase → stage\") - people almost never type the Unicode arrow in prose, so readers take it for model output on sight. A writer uses it in place of a verb (\"becomes,\" \"then,\" \"is renamed to,\" \"calls,\" \"leads to\"), and the reader has to guess which relation was meant. Chains of four or more items are worse: the sentence becomes a flowchart with unlabeled edges, and every link looks the same whether it means \"then,\" \"calls,\" or \"contains.\" Write the verb: \"rename v to payload,\" \"commit, push, open a PR, then merge.\" For a sequence of more than a few steps, use a numbered list. Same family as em dashes. Note: arrows in code, math, and diagrams are fine.",
+      "url": "https://claudisms.ai/#arrow-glyph",
+      "display": "The arrow glyph (→), especially in chains",
       "level": 2
     }
   ]
