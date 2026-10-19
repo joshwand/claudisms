@@ -19,7 +19,7 @@ wire it into your own tooling, no attribution required.
 
 `claudisms.md`, `index.html`, `llms.txt` and `sitemap.xml` are **generated** - from
 `claudisms.json` and `template.html`. Don't edit them by hand; your changes will be
-overwritten on the next build. CI rebuilds and compares all four, and fails if any is out of sync.
+overwritten on the next build. CI rebuilds them and fails if any is out of sync.
 
 Pull the list straight from the site:
 
@@ -62,6 +62,6 @@ has to clear and how to open a pull request.
 
 ## Why this exists
 
-Models fall back on the same small set of phrases and sentence patterns, and once you
-can spot them you stop publishing them. For the thinking behind it, read
+Models fall back on the same small set of phrases and sentence patterns. Once you can
+spot them, you stop publishing them. For the thinking behind it, read
 [Your Name Is Still on It](https://wespomeroy.substack.com/p/your-name-is-still-on-it).
